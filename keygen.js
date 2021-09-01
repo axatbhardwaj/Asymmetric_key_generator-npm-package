@@ -1,4 +1,4 @@
-function Keygen() {
+const keygen = () => {
   const crypto = require('crypto');
   const x = crypto.generateKeyPairSync('rsa', {
     modulusLength: 530, // options
@@ -13,5 +13,5 @@ function Keygen() {
     },
   });
   return x;
-}
-module.exports = Keygen;
+};
+module.exports = keygen();

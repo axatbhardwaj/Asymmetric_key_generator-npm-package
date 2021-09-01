@@ -1,0 +1,21 @@
+	
+{"name":	"@axatbhardwaj/Keygen",
+"version" :	"1.0.0",    
+"description":"Get Keypair for Asymmetric encryption",
+"main" :	"keygen.js",
+"bin":"keygen.js",
+"path":	"keygen.js",
+"scripts"	:{
+"random" :	"keygen.js"},
+"keywords":	[
+"Keypair generator",
+"Asymmetric keypair generator"],
+"author":	"Axat Bhardwaj",
+"license": "MIT",
+"repository" :{
+"type":	"git",
+"url":	"",
+"homepage":	""
+}
+}
+
