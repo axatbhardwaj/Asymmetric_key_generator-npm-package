@@ -1,5 +1,5 @@
 	
-{"name":"@axatbhardwaj/Keygen",
+{"name":"@axatbhardwaj/keygen",
 "version" :	"1.0.0",    
 "description":"Get Keypair for Asymmetric encryption",
 "main" :	"keygen.js",
