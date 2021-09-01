@@ -1,4 +1,4 @@
-# @axatbhardwaj/randnum
+# @axatbhardwaj/Keygen
 
 This Package returns a Key pair for Asymmetric key Encryption
 
@@ -21,3 +21,5 @@ type: 'pkcs8',
 format: 'der',
 
 # Usage
+
+const keypair = require('@axatbhardwaj/Keygen')

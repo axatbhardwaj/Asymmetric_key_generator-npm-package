@@ -1,5 +1,5 @@
 	
-{"name":	"@axatbhardwaj/Keygen",
+{"name":"@axatbhardwaj/Keygen",
 "version" :	"1.0.0",    
 "description":"Get Keypair for Asymmetric encryption",
 "main" :	"keygen.js",
@@ -14,8 +14,8 @@
 "license": "MIT",
 "repository" :{
 "type":	"git",
-"url":	"",
-"homepage":	""
+"url":	"https://github.com/axatbhardwaj/Asymmetric_key_generator-npm-package",
+"homepage":	"https://github.com/axatbhardwaj/Asymmetric_key_generator-npm-package/blob/main/#readme"
 }
 }
 
